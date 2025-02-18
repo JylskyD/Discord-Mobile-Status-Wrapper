@@ -5,7 +5,7 @@
 - [Python 3.10+](https://www.python.org)
 
 ## 🔧 | Configuration
-> You must configure the `config.js` file by replacing `Your Token Bot` with your token. You can find it on the [discord developer website](https://discord.com/developers/applications).
+> You must configure the `config.json` file by replacing `Your Token Bot` with your token. You can find it on the [discord developer website](https://discord.com/developers/applications).
 
 ```json
 {
